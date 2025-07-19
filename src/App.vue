@@ -1,5 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Test from "@/components/Test.vue";
+</script>
 
 <template>
-  <div></div>
+  <div>
+    <Test />
+  </div>
 </template>
