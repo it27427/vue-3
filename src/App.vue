@@ -4,6 +4,6 @@ import Test from "@/components/Test.vue";
 
 <template>
   <div>
-    <Test />
+    <Test hello="Hello" />
   </div>
 </template>
