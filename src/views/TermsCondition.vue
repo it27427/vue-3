@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <h1>Terms And Conditions Page</h1>
+    <h1 class="text-5xl font-bold text-black">Terms And Conditions Page</h1>
   </div>
 </template>

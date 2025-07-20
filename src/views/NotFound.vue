@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <h1>Page Not Found</h1>
+    <h1 class="text-5xl font-bold text-black">Page Not Found</h1>
   </div>
 </template>

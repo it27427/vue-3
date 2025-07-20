@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <h1>Store Page</h1>
+    <h1 class="text-5xl font-bold text-black">Store Page</h1>
   </div>
 </template>

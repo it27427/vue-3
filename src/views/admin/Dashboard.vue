@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <h1>Admin Dashboard</h1>
+    <h1 class="text-5xl font-bold text-black">Admin Dashboard</h1>
   </div>
 </template>

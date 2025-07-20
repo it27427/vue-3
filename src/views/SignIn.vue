@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <h1>Sign In Page</h1>
+    <h1 class="text-5xl font-bold text-black">Sign In Page</h1>
   </div>
 </template>
