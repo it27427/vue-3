@@ -7,19 +7,13 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  css: {
-    preprocessorOptions: {
-      scss: {
-        additionalData: `@import "@/style.scss";`,
-      },
-    },
-  },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
       "@assets": path.resolve(__dirname, "src/assets"),
       "@views": path.resolve(__dirname, "src/views"),
       "@components": path.resolve(__dirname, "src/components"),
+      "@layouts": path.resolve(__dirname, "src/layouts"),
     },
   },
 });
