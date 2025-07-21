@@ -1,24 +1,10 @@
 <script setup lang="ts">
-import Test from "@/components/Test.vue";
+import Header from "@/components/global/Header.vue";
 </script>
 
 <template>
   <div>
-    <ul>
-      <li>
-        <router-link to="/"> Home </router-link>
-      </li>
-      <li>
-        <router-link to="/about"> About </router-link>
-      </li>
-      <li>
-        <router-link to="/contact"> Contact </router-link>
-      </li>
-      <li>
-        <router-link to="/store"> Store </router-link>
-      </li>
-    </ul>
-
+    <Header />
     <router-view></router-view>
   </div>
 </template>
