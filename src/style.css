@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.router-link-active,
+.router-link-exact-active {
+  @apply text-green-200 font-bold;
+}
