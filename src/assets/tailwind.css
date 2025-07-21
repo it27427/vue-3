@@ -1,4 +1,5 @@
-@import "tailwindcss";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
 
 .router-link-active,
 .router-link-exact-active {
