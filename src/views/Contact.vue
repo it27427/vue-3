@@ -3,7 +3,7 @@ import ContactForm from "@/components/ContactForm.vue";
 </script>
 
 <template>
-  <div class="container mx-auto px-4 py-8">
+  <div class="container max-w-7xl px-4 pt-8 pb-4">
     <div class="mb-8">
       <div class="flex flex-col items-center justify-center gap-3 pb-5">
         <h1 class="text-5xl font-bold text-black">Get In Touch</h1>
