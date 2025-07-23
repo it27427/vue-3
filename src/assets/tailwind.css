@@ -4,3 +4,7 @@
 .router-link-exact-active {
   @apply text-green-200 font-bold;
 }
+
+textarea {
+  resize: none;
+}

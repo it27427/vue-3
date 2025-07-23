@@ -34,7 +34,7 @@
         rows="5"></textarea>
     </div>
 
-    <button type="submit" class="btn-lg border-t-cyan-400 transition-all hover:bg-cyan-400">
+    <button type="submit" class="border-t-cyan-400 transition-all focus:border-t-cyan-400 hover:bg-cyan-400">
       Send Message
     </button>
   </form>
