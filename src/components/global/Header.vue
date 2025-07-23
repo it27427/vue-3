@@ -3,7 +3,7 @@ import MainMenu from "@/components/global/MainMenu.vue";
 </script>
 
 <template>
-  <header class="header sticky-top w-full z-50">
+  <header class="sticky top-0 w-full z-50">
     <MainMenu />
   </header>
 </template>
