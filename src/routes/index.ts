@@ -54,7 +54,7 @@ const routes = [
     children: [{ path: "", name: "Dashboard", component: Dashboard }],
   },
   {
-    path: "/settings",
+    path: "/dashboard/settings",
     component: AdminLayout,
     children: [{ path: "", name: "Settings", component: Settings }],
   },

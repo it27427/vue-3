@@ -9,7 +9,7 @@ import Header from "@/components/global/Header.vue";
 
     <!-- Page Content -->
     <main class="flex-1 p-6">
-      <slot />
+      <router-view />
     </main>
 
     <!-- Footer -->
