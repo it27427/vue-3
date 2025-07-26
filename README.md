@@ -7,7 +7,7 @@ looking to understand and utilize Vue 3 effectively.
 
 ---
 
-## 🧰 Project Structure
+## 📁 Project Structure
 
 ```plaintext
 src/
