@@ -14,8 +14,6 @@ import Footer from "@/components/global/Footer.vue";
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-200 text-center p-4">
-      <p class="text-sm text-gray-700">© 2025 My Vue App</p>
-    </footer>
+    <Footer />
   </div>
 </template>
