@@ -9,10 +9,10 @@ const description = ref("We would love to hear from you!");
 <template>
   <div class="container max-w-7xl px-4 pt-8 pb-4">
     <div class="mb-8">
-      <div class="flex flex-col items-center justify-center gap-3 pb-5">
+      <header class="flex flex-col items-center justify-center gap-3 pb-5">
         <h1 class="text-5xl font-bold text-black">{{ title }}</h1>
         <p class="text-gray-600">{{ description }}</p>
-      </div>
+      </header>
 
       <ContactForm />
     </div>
