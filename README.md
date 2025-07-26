@@ -10,7 +10,7 @@ looking to understand and utilize Vue 3 effectively.
 ## 📁 Project Structure
 
 ```plaintext
-`src/`
+src/
 ├─ layouts/
 │  ├─ RootLayout.vue
 │  ├─ DashboardLayout.vue
@@ -23,4 +23,25 @@ looking to understand and utilize Vue 3 effectively.
 │  └─ index.ts
 ├─ main.ts
 └─ App.vue
+```
+
+## 📦 Installation & Setup
+
+```bash
+
+# Clone the repository
+git clone https://github.com/your-username/vue3-complete-reference.git
+
+# Navigate into the project directory
+cd vue3-complete-reference
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
 ```
