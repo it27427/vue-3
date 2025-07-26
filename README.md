@@ -10,7 +10,7 @@ looking to understand and utilize Vue 3 effectively.
 ## 📁 Project Structure
 
 ```plaintext
-src/
+`src/`
 ├─ layouts/
 │  ├─ RootLayout.vue
 │  ├─ DashboardLayout.vue
