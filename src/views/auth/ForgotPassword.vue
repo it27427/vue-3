@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 
-const title = ref('Forgot Password Page');
+const title = ref('Forgot Password');
 const description = ref('Please enter your email to reset your password.');
 </script>
 
